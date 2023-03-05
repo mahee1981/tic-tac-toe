@@ -6,8 +6,8 @@ namespace TicTacToe
     {
         static void Main(string[] args)
         {
-            Game Xox = new Game();
-            Xox.DrawBoard();
+            TicTacToe Xox = new TicTacToe();
+            Xox.Play();
         }
     }
 }
